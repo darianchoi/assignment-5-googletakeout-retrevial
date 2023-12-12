@@ -1,2 +1,6 @@
-# assignment-5-googletakeout-retrevial
-Project on a data retrieval system that gets email data and finds most frequent senders and recipients and also the most frequent times that emails are sent or recieved
+##CS 128 Information Retrieval and Big Data
+##Author Information
+###Name(s): Darian Choi, Garret Buchanan
+###Email(s): dchoi@westmont.edu, gbuchanan@westmont.edu
+
+
