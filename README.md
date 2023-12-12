@@ -24,9 +24,9 @@
   #### CHAT GPT prompt: "I only want 2000 emails from each file"
         # from lines 38-50 in the runner file
   #### Chat GPT prompt: "How would I be able to parse through the data to only receive the content of the email ignoring the HTML?"
-    ##lines 95 - 133 
+        # lines 95 - 133 from runner file 
   #### CHat GPT prompt: "How would I be able to keep querying for my outputs?"
-    ## line 78 
+        # line 78 in runner file  
   
 ### Mike Ryu(@mryu@westmont.edu) abstract models file classifier.models file was written by him 
 
