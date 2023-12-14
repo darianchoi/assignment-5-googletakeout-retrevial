@@ -6,9 +6,8 @@ import quopri
 import random
 
 from bs4 import BeautifulSoup
-from nltk.corpus import twitter_samples
 
-from classifier.our_classifier.our_classifier_models import OurFeature, OurFeatureSet, OurClassifier
+from classifier.our_classifier.our_classifier_models import OurFeatureSet, OurClassifier
 
 __author__ = "Darian Choi, Garrett Buchanan"
 __copyright__ = "Copyright 2023, Westmont College, Mike Ryu"
@@ -27,8 +26,8 @@ def main() -> None:
             classifier, train_set, test_set = pickle.load(f)
     else:
 
-        mbox_file_gbuch = '/Users/Inbox.mbox'
-        mbox_file_dchoi = '/Users/mail.mbox'
+        mbox_file_gbuch = '../../../../Inbox.mbox'
+        mbox_file_dchoi = '../../../../mail.mbox'
 
         # Load the MBOX file
         mbox_g = mailbox.mbox(mbox_file_gbuch)
