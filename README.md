@@ -18,6 +18,9 @@
 #### When running the runner file you should be able to see the most important features that determine the classes of each email 
 #### In the terminal enter email content to find out which inbox it is from
 
+## Extra Credit:
+#### The extra credit portion of Google Cloud was a good learning experience and informative. It was nice to be able to see all the big data concepts we have learned throughout the course applied to a cloud machine. Companies like google being able to process on their machines big volumes of data from my machine was a neat feature to use because I knew exactly how cloud computing worked. 
+
 
 ## CITATIONS/Credits:
 ### DATA:
