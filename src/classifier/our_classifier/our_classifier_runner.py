@@ -6,7 +6,7 @@ import quopri
 import random
 from bs4 import BeautifulSoup
 
-from our_classifier_models import OurFeatureSet, OurClassifier
+from classifier.our_classifier.our_classifier_models import OurFeatureSet, OurClassifier
 
 __author__ = "Darian Choi, Garrett Buchanan"
 __copyright__ = "Copyright 2023, Westmont College, Mike Ryu"
