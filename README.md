@@ -6,7 +6,7 @@
 # CS 128 Information Retrieval and Big Data
 
 ## Author Information/ License
-#### Name(s): Darian Choi, Garret Buchanan 
+#### Name(s): Darian Choi, Garrett Buchanan 
 #### Email(s): dchoi@westmont.edu, gbuchanan@westmont.edu
 #### License: "MIT" 
 
@@ -16,10 +16,12 @@
 #### example(gbuch_raw_data = "/path/to/mbox/file"
 #### After initializing the variables run the runner file
 #### When running the runner file you should be able to see the most important features that determine the classes of each email 
-#### In the terminal enter in email content to find out which inbox it is from
+#### In the terminal enter email content to find out which inbox it is from
 
 
 ## CITATIONS/Credits:
+### DATA:
+  #### the data used was from Garrett and Darians email inboxes with the use of google takeout
 ### Chat GPT:
   #### CHAT GPT prompt: "I only want 2000 emails from each file"
         # from lines 38-50 in the runner file
