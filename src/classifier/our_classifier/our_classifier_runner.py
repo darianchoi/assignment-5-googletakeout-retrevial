@@ -4,7 +4,6 @@ import os
 import pickle
 import quopri
 import random
-
 from bs4 import BeautifulSoup
 
 from classifier.our_classifier.our_classifier_models import OurFeatureSet, OurClassifier

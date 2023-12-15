@@ -5,9 +5,11 @@ __credits__ = ["Mike Ryu, Garrett Buchanan, Darian Choi"]
 __email__ = "gbuchanan@westmont.edu" "dchoi@westmont.edu"
 
 # SNAIL
+
 from collections import defaultdict, Counter
 from math import log10
 from typing import Iterable, Any
+
 from classifier.classifier_models import Feature, FeatureSet, AbstractClassifier
 from nltk import word_tokenize
 
